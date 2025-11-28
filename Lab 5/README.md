@@ -6,11 +6,11 @@ This is my solution for the Dining Philosophers lab. The original template force
 
 This solution uses standard Go libraries, so no external installation is required.
 
-1. **Run the code(**Open a terminal in this directory and run):
+1. Run the code(**Open a terminal in this directory and run):
 
-| go run dinPhil.go |
-| :---- |
-
+```bash
+go run dinPhil.go
+```
 ## **GitHub Repository**
 
 Here is the link to my git repository containing all the labs: [https://github.com/AnJig00/Concurrent-Development-Labs](https://github.com/AnJig00/Concurrent-Development-Labs)
