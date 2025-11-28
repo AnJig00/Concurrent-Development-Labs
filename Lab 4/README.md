@@ -8,9 +8,9 @@ This code allows multiple iterations (loops) of synchronization.
 
 1. **Run the code(Open a terminal in this directory and run):**
 
-| go run ReusableBarrier.go |
-| :---- |
-
+```bash
+go run ReusableBarrier.go
+```
 ## **GitHub Repository**
 
 Here is the link to my git repository containing all the labs: [https://github.com/AnJig00/Concurrent-Development-Labs](https://github.com/AnJig00/Concurrent-Development-Labs)
