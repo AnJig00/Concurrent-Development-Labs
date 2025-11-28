@@ -6,7 +6,7 @@ This is my solution for the Dining Philosophers lab. The original template force
 
 This solution uses standard Go libraries, so no external installation is required.
 
-1. Run the code(**Open a terminal in this directory and run):
+1. **Run the code(Open a terminal in this directory and run)**:
 
 ```bash
 go run dinPhil.go
